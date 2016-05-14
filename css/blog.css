@@ -37,6 +37,15 @@ h6, .h6 {
   padding-top: 50px;
 }
 
+
+/*navbar*/
+.navbar-brand {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: 6px;
+  font-size: 1.6em;
+  text-transform: lowercase;
+  font-weight: 100;
+}
 /*
  * Masthead for nav
  */
